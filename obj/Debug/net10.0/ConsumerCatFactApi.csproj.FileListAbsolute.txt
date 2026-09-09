@@ -1,0 +1,14 @@
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/bin/Debug/net10.0/ConsumerCatFactApi
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/bin/Debug/net10.0/ConsumerCatFactApi.deps.json
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/bin/Debug/net10.0/ConsumerCatFactApi.runtimeconfig.json
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/bin/Debug/net10.0/ConsumerCatFactApi.dll
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/bin/Debug/net10.0/ConsumerCatFactApi.pdb
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ConsumerCatFactApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ConsumerCatFactApi.AssemblyInfoInputs.cache
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ConsumerCatFactApi.AssemblyInfo.cs
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ConsumerCatFactApi.csproj.CoreCompileInputs.cache
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ConsumerCatFactApi.dll
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/refint/ConsumerCatFactApi.dll
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ConsumerCatFactApi.pdb
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ConsumerCatFactApi.genruntimeconfig.cache
+/home/eueliseeu/Documents/ConsumerCatFactApi/ConsumerCatFactApi/obj/Debug/net10.0/ref/ConsumerCatFactApi.dll
