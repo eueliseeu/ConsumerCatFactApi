@@ -36,6 +36,3 @@ Aplicação de console em C# que consulta a [Cat Facts API](https://catfact.ninj
    dotnet run
    ```
 
-## Licença
-
-Defina a licença do seu projeto aqui (ex: MIT, Apache 2.0, etc).
